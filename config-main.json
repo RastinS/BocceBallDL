@@ -1,0 +1,11 @@
+{
+    "numberOfCameras": 4,
+    "cameraRTSPs": [
+        "rtsp://admin:admin123456@192.168.5.190:554/main",
+        "rtsp://admin:admin123456@192.168.5.191:554/main",
+        "rtsp://admin:admin123456@192.168.5.192:554/main",
+        "rtsp://admin:admin123456@192.168.5.193:554/main"
+    ],
+    "calibrationMatrixAddress": "calibration_matrix.yaml",
+    "weightsAddress": "weights/yolov5sWeights.pt"
+}
