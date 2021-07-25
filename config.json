@@ -1,8 +1,0 @@
-{
-    "numberOfCameras": 1,
-    "cameraRTSPs": [
-        "rtsp://admin:admin123456@192.168.5.193:554/main"
-    ],
-    "calibrationMatrixAddress": "calibration_matrix.yaml",
-    "weightsAddress": "weights/yolov5sWeights.pt"
-}
