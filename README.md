@@ -28,7 +28,7 @@ There were a number of lighting conditions and ball positioning inside the field
 
 	- Two different chess fields were used. One with 5 centimeters tiles and one with 10 centimeters tiles.
 
-	- Each point on the camera image is mapped to a position in centimeters inside the chess field. This enables the possibility of calculating the distance in centimeters. An example of one such chess field image is shown below: <img  alt="Chess field image" width="300" src="/chessBoard5.jpg"/>
+	- Each point on the camera image is mapped to a position in centimeters inside the chess field. This enables the possibility of calculating the distance in centimeters. An example of one such chess field image is shown below:<br /><br /> <img alt="Chess field image" width="300" src="/chessBoard5.jpg"/>
 
 5. Gathering images of balls in various situations
 
