@@ -24,7 +24,7 @@ There were a number of lighting conditions and ball positioning inside the field
 
 	- Using a printed chess field with the size of 3 x 3 meters
 
-	- Methods from [OpenCV] (https://opencv.org)
+	- Methods from [OpenCV](https://opencv.org)
 
 	- Two different chess fields were used. One with 5 centimeters tiles and one with 10 centimeters tiles.
 
@@ -40,7 +40,7 @@ There were a number of lighting conditions and ball positioning inside the field
 
 6. Labeling color and white balls and zone lines
 
-	- Using [RoboFlow] (https://roboflow.com)
+	- Using [RoboFlow](https://roboflow.com)
 
 7. Applying image augmentation
 
